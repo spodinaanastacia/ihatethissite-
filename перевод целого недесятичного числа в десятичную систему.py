@@ -6,4 +6,5 @@ while not Np==0:
     N10=N10+(Np%10)*k
     k=k*p
     Np=Np//10
+print('ツ')
 print(f"N10={N10}")
